@@ -51,7 +51,7 @@ If you use this code or dataset in your research, please cite the following:
   title = {Revolutionizing Age, Gender, and Ethnicity Recognition with Multi-Modal Vision Transformers},
   year = {2024},
   journal = {YET TO BE PUBLISHED},
-  url = {https://github.com/yourusername/age-gender-ethnicity-detection-using-vit}
+  url = {https://github.com/Sanjay71013/Multi-Modal_Vision-Transformer_For_Age-Gender-Ethnicity}
 }
 
 @dataset{utkface,
@@ -61,3 +61,5 @@ If you use this code or dataset in your research, please cite the following:
   url = {https://www.kaggle.com/datasets/jangedoo/utkface-new}
 }
 ```
+
+[![DOI](https://zenodo.org/badge/823088109.svg)](https://zenodo.org/doi/10.5281/zenodo.12625807)
