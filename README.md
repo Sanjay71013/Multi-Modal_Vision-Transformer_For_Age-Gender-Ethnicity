@@ -1,4 +1,4 @@
-# Age, Gender, and Ethnicity Detection Using Vision Transformers
+# Revolutionizing Age, Gender, and Ethnicity Recognition with Multi-Modal Vision Transformers
 
 This repository contains the source code for age, gender, and ethnicity detection using Vision Transformers (ViT). The project explores three different attention mechanisms integrated with ViT: CBAM, Coordinate Attention, and Self-Attention.
 
